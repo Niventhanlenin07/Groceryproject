@@ -11,5 +11,4 @@ public class GroceryApplication {
 		SpringApplication.run(GroceryApplication.class, args);
 		System.out.println("Run successfully...");
 	}
-
 }
